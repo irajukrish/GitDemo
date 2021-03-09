@@ -25,15 +25,5 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="C:/Users/Rajendran K/.m2/repository/com/intuit/karate/karate-junit4/0.9.4/karate-junit4-0.9.4.jar" sourcepath="C:/Users/Rajendran K/.m2/repository/com/intuit/karate/karate-junit4/0.9.4/karate-junit4-0.9.4-sources.jar">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-			<attribute name="test" value="true"/>
-			<attribute name="maven.groupId" value="com.intuit.karate"/>
-			<attribute name="maven.artifactId" value="karate-junit4"/>
-			<attribute name="maven.version" value="0.9.4"/>
-			<attribute name="maven.scope" value="test"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
